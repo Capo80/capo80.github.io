@@ -14,7 +14,7 @@ description: "Information from myself"
   
   I also frequently partecipate in CTF competitions and am part of the hAOckers, TRX and mHackeroni hacking teams.
   </div>
-  <img src="https://capo80.github.io/personal_website/images/pasquale.jpg" alt="Personal photo" style="max-width: 200px; margin-left: 20px;">
+  <img src="/images/pasquale.jpg" alt="Personal photo" style="max-width: 200px; margin-left: 20px;">
 </div>
 
 
