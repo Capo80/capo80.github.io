@@ -1,0 +1,12 @@
+[submodule "themes/adritian"]
+	path = themes/adritian
+	url = https://github.com/zetxek/adritian-free-hugo-theme
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
+[submodule "themes/classic"]
+	path = themes/classic
+	url = https://github.com/goodroot/hugo-classic.git
