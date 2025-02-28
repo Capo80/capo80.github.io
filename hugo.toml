@@ -1,10 +1,11 @@
-baseurl = "https://capo80.github.io/personal_website/"
+baseURL = "https://capo80.github.io/"
+# baseURL = "https://localhost:80"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
-theme = "classic"
+theme = "hugo-classic"
 title = "Home"
 
 [markup.goldmark.renderer]
