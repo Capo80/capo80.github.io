@@ -13,7 +13,7 @@ Here are some slides and exercises from my courses:
 
 <center> <h3> Operating Systems </h3> </center>
 
-| Lesson                | Slides                              | Exercises |
-| ------                | :------:                             | --------- |
-| 1. Linux Introduction | [PDF](/SO_introduzione_linux.pdf)   |           |
+| Lesson                | Slides                              | Exercises | Last Update   |
+| ------                | :------:                            | --------- | :-----------: |
+| 1. Linux Introduction | [PDF](/SO_introduzione_linux.pdf)   |           | <small>05/03/2025</small>    |
 

@@ -10,7 +10,7 @@ description: "Information from myself"
   </h1>
   I am a PHD Student at the <i>Department of Civil Engineering and Computer Science Engineering</i> of the University of Rome Tor Vergata and a Senior Security Reseracher for the CNIT <i>NAM Laboratory</i>.
   
-  My reaserach focuses on Operating Systems Security and Malware, mainly working with the Linux Kernel.
+  My reaserch focuses on Operating Systems Security and Malware, mainly working with the Linux Kernel.
   
   I also frequently partecipate in CTF competitions and am part of the hAOckers, TRX and mHackeroni hacking teams.
   </div>
