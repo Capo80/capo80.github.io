@@ -15,5 +15,5 @@ Here are some slides and exercises from my courses:
 
 | Lesson                | Slides                              | Exercises | Last Update   |
 | ------                | :------:                            | --------- | :-----------: |
-| 1. Linux Introduction | [PDF](/SO_introduzione_linux.pdf)   |           | <small>05/03/2025</small>    |
+| 1. Linux Introduction | [PDF](/SO_introduzione_linux.pdf)   |           | <small>17/03/2025</small>    |
 
