@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>http://localhost:1313/</link>
+    <link>https://capo80.github.io/</link>
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://capo80.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://capo80.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
-      <description>&lt;style&gt;&#xA;table {&#xA;  width: 100%;&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Here are some slides and exercises from my courses:&lt;/p&gt;&#xA;&lt;center&gt; &lt;h3&gt; Operating Systems &lt;/h3&gt; &lt;/center&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Lesson&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Slides&lt;/th&gt;&#xA;          &lt;th&gt;Exercises&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Last Update&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1. Linux Introduction&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;http://localhost:1313/SO_introduzione_linux.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;small&gt;17/03/2025&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>https://capo80.github.io/teaching/</guid>
+      <description>&lt;style&gt;&#xA;table {&#xA;  width: 100%;&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Here are some slides and exercises from my courses:&lt;/p&gt;&#xA;&lt;center&gt; &lt;h3&gt; Operating Systems &lt;/h3&gt; &lt;/center&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Lesson&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Risorse&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Exercises&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Last Update&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1. Linux Introduction&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://capo80.github.io/slides/SO_introduzione_linux.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;small&gt;05/03/2025&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2. Approfondimento sui puntatori&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://capo80.github.io/slides/SO_approfindimento_sui_puntatori.pdf&#34;&gt;Slides&lt;/a&gt; &lt;a href=&#34;https://youtu.be/SvvH7s2yYn0?feature=shared&#34;&gt;Video&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://capo80.github.io/exercises/esercizio_puntatori.pdf&#34;&gt;Es1&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;small&gt;22/03/2025&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
