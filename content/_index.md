@@ -34,6 +34,6 @@ Feel free to contact me via e-mail at: </br>
 *pasquale.caporaso (at) cnit.it*
 
 If you are contacting me for one of my courses please add the following to the mail subject:</br>
-- "[SO]" for Operating Systems;
-- "[CC]" for CyberChallenge.IT; 
+- [SO] for Operating Systems;
+- [CC] for CyberChallenge.IT; 
 
