@@ -22,7 +22,7 @@ void* runner(void* arg) {
 }
 
 int main() {
-    srand(time(NULL));
+    srand(0);
     pthread_t threads[N];
     int ids[N];
     
