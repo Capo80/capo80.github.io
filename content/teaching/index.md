@@ -20,6 +20,7 @@ Here are some slides and exercises from my courses:
 | 3. Multithread/MultiProcess | [Slides](/slides/SO_tutoraggio_multi_process.pdf) | [Es1](/exercises/SO_esercizio_thread_1.pdf)  [SB](/exercises/SO_esercizio_thread_1_base.c) [SC3](/exercises/SO_esercizio_thread_1_c3.c) [SBW](/exercises/SO_esercizio_thread_1_win.c) | <small>07/04/2025</small>    |
 | 4. Multithread/MultiProcess | [Slides](/slides/SO_tutoraggio_multi_process_2.pdf) | [Es1](/exercises/SO_esercizio_thread_2.pdf) [SB](/exercises/SO_esercizio_thread_2_base.c)| <small>28/04/2025</small>    |
 | 5. Scheduling | [Slides](/slides/SO_tutoraggio_scheduling_1.pdf) | | <small>28/04/2025</small>    |
+| 6. Scheduling | [Slides](/slides/SO_tutoraggio_scheduling_2.pdf) | | <small>28/04/2025</small>    |
 
 SB[W] = Solve Base [Windows]
 
