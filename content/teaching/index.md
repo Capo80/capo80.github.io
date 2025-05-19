@@ -21,7 +21,8 @@ Here are some slides and exercises from my courses:
 | 4. Multithread/MultiProcess | [Slides](/slides/SO_tutoraggio_multi_process_2.pdf) | [Es1](/exercises/SO_esercizio_thread_2.pdf) [SB](/exercises/SO_esercizio_thread_2_base.c)| <small>28/04/2025</small>    |
 | 5. Scheduling | [Slides](/slides/SO_tutoraggio_scheduling_1.pdf) | | <small>28/04/2025</small>    |
 | 6. Scheduling | [Slides](/slides/SO_tutoraggio_scheduling_2.pdf) | | <small>28/04/2025</small>    |
-| 7. File System | [Slides](/slides/SO_file_system_1.pdf) | [Es1](/exercises/SO_esercizio_file_system_1.pdf) [IP](/exercises/input_gen.py)| <small>12/05/2025</small>    |
+| 7. File System | [Slides](/slides/SO_file_system_1.pdf) | [Es1](/exercises/SO_esercizio_file_system_1.pdf) [IP](/exercises/input_gen_1.py) [SB](/exercises/SO_esercizio_file_system_1.c) |  <small>19/05/2025</small>   |
+| 7. File System 2 | [Slides](/slides/SO_file_system_2.pdf) | [Es1](/exercises/SO_esercizio_file_system_2.pdf) [IP](/exercises/input_gen_2.py)| <small>19/05/2025</small>    |
 
 SB[W] = Solve Base [Windows]
 
