@@ -9,6 +9,8 @@ table {
 }
 </style>
 
+<center> <h1> Lezione di recupero Sistemi Operativi giorno 09/06/2025 ore 16:00 aula 4 </h3> </center>
+
 Here are some slides and exercises from my courses:
 
 <center> <h3> Operating Systems </h3> </center>
